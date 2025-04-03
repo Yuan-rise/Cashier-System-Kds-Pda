@@ -22,14 +22,6 @@
 |     KDS电子厨显系统       |          V1.0           |   [点击查看](https://gitee.com/yuanrise-network/ordering-cashier-system/tree/master/%E7%B3%BB%E7%BB%9F%E6%BC%94%E7%A4%BA%E5%9B%BE/KDS%E7%94%B5%E5%AD%90%E5%8E%A8%E6%98%BE) |
 |   小程序扫码点餐系统      |          v1.0            |  [点击查看](https://gitee.com/yuanrise-network/ordering-cashier-system/tree/master/%E7%B3%BB%E7%BB%9F%E6%BC%94%E7%A4%BA%E5%9B%BE/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%82%B9%E9%A4%90)|
 
- ## :computer: **演示地址**
-演示网址：http://shouyin.yuanrise.cn/login<br/>
-运营商账户：yunying        密码：123456<br/>
-商户账户：  17777777777    密码：123456<br/>
-代理商账户：18888888888    密码：123456<br/>
-总商户账户：19999999999    密码：123456<br/>
-收银机、KDS、PDA统一测试账户：<br/>
-账户：01   密码：123456
 
 ##  :heart: **主营业务**
 **本公司承接APP、小程序、网站、系统、物联网等软件开发，技术支持，如需要可联系微信【yuanqiwl0409】**
@@ -162,20 +154,13 @@
 |  记账管理  | 员工奖励记录、员工提现记录   |
 |  素材码 | 店铺素材码、桌位码的下载   |
 
-## **授权说明**
-
-开源版仅允许用于个人学习研究使用。
-
-禁止将本开源的代码和资源进行任何形式任何名义的改造或出售。
+## **授权说明**。
 
 限制商用，如果需要商业授权使用请联系我们。
 
 <img src="技术支持.png" alt="your-image-alt-text" width="200" height="300"><br/>
 
-开源代码的，在QQ群，开源不易，请左上角star后备注gitee的用户名加QQ群获取。
 
-
-<img src="qrcode.jpg" alt="your-image-alt-text" width="200" height="400"><br/>
 
 ## :tw-1f1e8-1f1f3: **一个小目标**
 
